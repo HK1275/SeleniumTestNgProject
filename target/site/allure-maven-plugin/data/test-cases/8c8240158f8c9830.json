@@ -1,0 +1,156 @@
+{
+  "uid" : "8c8240158f8c9830",
+  "name" : "TC002_IsCorrectDashboard",
+  "fullName" : "com.project.selenium.testcases.DashboardTest.TC002_IsCorrectDashboard",
+  "historyId" : "68f12e72296239d8694998129db1cf64",
+  "time" : {
+    "start" : 1648226049247,
+    "stop" : 1648226049287,
+    "duration" : 40
+  },
+  "description" : "Verify home page loaded and correct widget loaded",
+  "descriptionHtml" : "<p>Verify home page loaded and correct widget loaded</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1648226042746
+    },
+    "description" : "",
+    "status" : "unknown",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1648226042748,
+      "stop" : 1648226047633,
+      "duration" : 4885
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Verify home page loaded and correct widget loaded",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Get project Title - Home Page",
+      "time" : {
+        "start" : 1648226049247,
+        "stop" : 1648226049286,
+        "duration" : 39
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1648226049299
+    },
+    "description" : "",
+    "status" : "unknown",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1648226049299,
+      "stop" : 1648226049557,
+      "duration" : 258
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.project.selenium.testcases.DashboardTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.project.selenium.testcases.DashboardTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC002_IsCorrectDashboard"
+  }, {
+    "name" : "parentSuite",
+    "value" : "RegressionSuite"
+  }, {
+    "name" : "suite",
+    "value" : "DashboardTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.project.selenium.testcases.DashboardTest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-7KHLVSM1"
+  }, {
+    "name" : "thread",
+    "value" : "27260@LAPTOP-7KHLVSM1.pool-1-thread-1(18)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Home page and widgets"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c8240158f8c9830.json",
+  "parameterValues" : [ ]
+}

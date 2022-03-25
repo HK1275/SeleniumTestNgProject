@@ -1,0 +1,207 @@
+{
+  "uid" : "9e3bf83bc53e0845",
+  "name" : "TC103_AddSingularMaterialModel_emptyValue",
+  "fullName" : "com.project.selenium.testcases.WidgetsTest.TC103_AddSingularMaterialModel_emptyValue",
+  "historyId" : "a13437dcd8c5c263d2bcb1a4b16847ff",
+  "time" : {
+    "start" : 1648226057485,
+    "stop" : 1648226058097,
+    "duration" : 612
+  },
+  "description" : "Add empty value submit to Material Model under tab - Singular ",
+  "descriptionHtml" : "<p>Add empty value submit to Material Model under tab - Singular</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1648226049614
+    },
+    "description" : "",
+    "status" : "unknown",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1648226049614,
+      "stop" : 1648226055673,
+      "duration" : 6059
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Waiting for page load - Home Page",
+      "time" : {
+        "start" : 1648226053827,
+        "stop" : 1648226055478,
+        "duration" : 1651
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Widget Page - Wait for page load",
+      "time" : {
+        "start" : 1648226055495,
+        "stop" : 1648226055673,
+        "duration" : 178
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Add empty value submit to Material Model under tab - Singular ",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Widget Page - Submit Value to Singular tab and verify new value appears [first row]",
+      "time" : {
+        "start" : 1648226057485,
+        "stop" : 1648226057972,
+        "duration" : 487
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "rowNumber",
+        "value" : "1"
+      }, {
+        "name" : "value",
+        "value" : ""
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Get Field validation message text",
+      "time" : {
+        "start" : 1648226057973,
+        "stop" : 1648226058096,
+        "duration" : 123
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1648226058101
+    },
+    "description" : "",
+    "status" : "unknown",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1648226058101,
+      "stop" : 1648226058366,
+      "duration" : 265
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.project.selenium.testcases.WidgetsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.project.selenium.testcases.WidgetsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC103_AddSingularMaterialModel_emptyValue"
+  }, {
+    "name" : "parentSuite",
+    "value" : "RegressionSuite"
+  }, {
+    "name" : "suite",
+    "value" : "WidgetTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.project.selenium.testcases.WidgetsTest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-7KHLVSM1"
+  }, {
+    "name" : "thread",
+    "value" : "27260@LAPTOP-7KHLVSM1.pool-2-thread-1(23)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Widget tests"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9e3bf83bc53e0845.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,90 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "RegressionSuite",
+    "children" : [ {
+      "name" : "DashboardTest",
+      "children" : [ {
+        "name" : "com.project.selenium.testcases.DashboardTest",
+        "children" : [ {
+          "name" : "TC001_CheckIfLogoIsPresent",
+          "uid" : "d33e61cdbbc9204",
+          "parentUid" : "a074453f52ead990b98487b51b973534",
+          "status" : "passed",
+          "time" : {
+            "start" : 1648226047715,
+            "stop" : 1648226049158,
+            "duration" : 1443
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "TC002_IsCorrectDashboard",
+          "uid" : "8c8240158f8c9830",
+          "parentUid" : "a074453f52ead990b98487b51b973534",
+          "status" : "passed",
+          "time" : {
+            "start" : 1648226049247,
+            "stop" : 1648226049287,
+            "duration" : 40
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a074453f52ead990b98487b51b973534"
+      } ],
+      "uid" : "f810afb85448e3f611f0cd0b6c89a454"
+    }, {
+      "name" : "WidgetTest",
+      "children" : [ {
+        "name" : "com.project.selenium.testcases.WidgetsTest",
+        "children" : [ {
+          "name" : "TC101_AddSingularMaterialModel",
+          "uid" : "d7c27af7c367a721",
+          "parentUid" : "451d539b850062c49c3b75fba03661cb",
+          "status" : "passed",
+          "time" : {
+            "start" : 1648226055676,
+            "stop" : 1648226056671,
+            "duration" : 995
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "TC102_AddSingularMaterialModel_CancelSubmit",
+          "uid" : "2e319fb08a5356a1",
+          "parentUid" : "451d539b850062c49c3b75fba03661cb",
+          "status" : "passed",
+          "time" : {
+            "start" : 1648226056676,
+            "stop" : 1648226057477,
+            "duration" : 801
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "TC103_AddSingularMaterialModel_emptyValue",
+          "uid" : "9e3bf83bc53e0845",
+          "parentUid" : "451d539b850062c49c3b75fba03661cb",
+          "status" : "passed",
+          "time" : {
+            "start" : 1648226057485,
+            "stop" : 1648226058097,
+            "duration" : 612
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "451d539b850062c49c3b75fba03661cb"
+      } ],
+      "uid" : "87666fc3aac01610f831a7c8bd53f72c"
+    } ],
+    "uid" : "c1b365eb70bc076d97d473b77b9d8983"
+  } ]
+}

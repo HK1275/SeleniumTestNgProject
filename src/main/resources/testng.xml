@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite" thread-count="1" parallel="classes">
+
+	<test name="DashboardTest">
+		<!-- <groups> <run> <exclude name = "Functionality" /> </run> </groups> -->
+		<classes>
+			<class name="com.project.selenium.testcases.DashboardTest"></class>
+		</classes>
+	</test> <!-- Test -->
+	<test name="WidgetTest">
+		<classes>
+			<class name="com.project.selenium.testcases.WidgetsTest"></class>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

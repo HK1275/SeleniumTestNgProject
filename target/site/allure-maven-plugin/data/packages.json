@@ -1,0 +1,82 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.project.selenium.testcases",
+    "children" : [ {
+      "name" : "DashboardTest",
+      "children" : [ {
+        "name" : "TC001_CheckIfLogoIsPresent",
+        "uid" : "d33e61cdbbc9204",
+        "parentUid" : "14abd4fbbd68839d63f88b3487975ed1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648226047715,
+          "stop" : 1648226049158,
+          "duration" : 1443
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TC002_IsCorrectDashboard",
+        "uid" : "8c8240158f8c9830",
+        "parentUid" : "14abd4fbbd68839d63f88b3487975ed1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648226049247,
+          "stop" : 1648226049287,
+          "duration" : 40
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "14abd4fbbd68839d63f88b3487975ed1"
+    }, {
+      "name" : "WidgetsTest",
+      "children" : [ {
+        "name" : "TC101_AddSingularMaterialModel",
+        "uid" : "d7c27af7c367a721",
+        "parentUid" : "88f67a7deaa14a3eb9f74c333266ade0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648226055676,
+          "stop" : 1648226056671,
+          "duration" : 995
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TC102_AddSingularMaterialModel_CancelSubmit",
+        "uid" : "2e319fb08a5356a1",
+        "parentUid" : "88f67a7deaa14a3eb9f74c333266ade0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648226056676,
+          "stop" : 1648226057477,
+          "duration" : 801
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TC103_AddSingularMaterialModel_emptyValue",
+        "uid" : "9e3bf83bc53e0845",
+        "parentUid" : "88f67a7deaa14a3eb9f74c333266ade0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648226057485,
+          "stop" : 1648226058097,
+          "duration" : 612
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "88f67a7deaa14a3eb9f74c333266ade0"
+    } ],
+    "uid" : "com.project.selenium.testcases"
+  } ]
+}

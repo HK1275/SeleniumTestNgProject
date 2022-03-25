@@ -1,0 +1,51 @@
+[ {
+  "uid" : "9e3bf83bc53e0845",
+  "name" : "TC103_AddSingularMaterialModel_emptyValue",
+  "time" : {
+    "start" : 1648226057485,
+    "stop" : 1648226058097,
+    "duration" : 612
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8c8240158f8c9830",
+  "name" : "TC002_IsCorrectDashboard",
+  "time" : {
+    "start" : 1648226049247,
+    "stop" : 1648226049287,
+    "duration" : 40
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d33e61cdbbc9204",
+  "name" : "TC001_CheckIfLogoIsPresent",
+  "time" : {
+    "start" : 1648226047715,
+    "stop" : 1648226049158,
+    "duration" : 1443
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d7c27af7c367a721",
+  "name" : "TC101_AddSingularMaterialModel",
+  "time" : {
+    "start" : 1648226055676,
+    "stop" : 1648226056671,
+    "duration" : 995
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "2e319fb08a5356a1",
+  "name" : "TC102_AddSingularMaterialModel_CancelSubmit",
+  "time" : {
+    "start" : 1648226056676,
+    "stop" : 1648226057477,
+    "duration" : 801
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

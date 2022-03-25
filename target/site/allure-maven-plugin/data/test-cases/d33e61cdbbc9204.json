@@ -1,0 +1,171 @@
+{
+  "uid" : "d33e61cdbbc9204",
+  "name" : "TC001_CheckIfLogoIsPresent",
+  "fullName" : "com.project.selenium.testcases.DashboardTest.TC001_CheckIfLogoIsPresent",
+  "historyId" : "f0a324b473a5e3b50bae7ba180948370",
+  "time" : {
+    "start" : 1648226047715,
+    "stop" : 1648226049158,
+    "duration" : 1443
+  },
+  "description" : "Verify home page loaded after login",
+  "descriptionHtml" : "<p>Verify home page loaded after login</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1648226042746
+    },
+    "description" : "",
+    "status" : "unknown",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1648226042748,
+      "stop" : 1648226047633,
+      "duration" : 4885
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Verify home page loaded after login",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Waiting for page load - Home Page",
+      "time" : {
+        "start" : 1648226047813,
+        "stop" : 1648226048939,
+        "duration" : 1126
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Check is Log displayed on Home page",
+      "time" : {
+        "start" : 1648226048939,
+        "stop" : 1648226049155,
+        "duration" : 216
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1648226049299
+    },
+    "description" : "",
+    "status" : "unknown",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1648226049299,
+      "stop" : 1648226049557,
+      "duration" : 258
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.project.selenium.testcases.DashboardTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.project.selenium.testcases.DashboardTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC001_CheckIfLogoIsPresent"
+  }, {
+    "name" : "parentSuite",
+    "value" : "RegressionSuite"
+  }, {
+    "name" : "suite",
+    "value" : "DashboardTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.project.selenium.testcases.DashboardTest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-7KHLVSM1"
+  }, {
+    "name" : "thread",
+    "value" : "27260@LAPTOP-7KHLVSM1.pool-1-thread-1(18)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Home page and widgets"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d33e61cdbbc9204.json",
+  "parameterValues" : [ ]
+}
